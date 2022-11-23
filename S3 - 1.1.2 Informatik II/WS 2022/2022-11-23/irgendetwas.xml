@@ -1,0 +1,28 @@
+<raum>
+    <lampe eingeschalten="True" typ="glühbirne" />
+    <tisch>
+        <laptop />
+        <camera />
+        <lampe typ="Tischlampe" eingeschalten="True" />
+    </tisch>
+    <stuhl />
+    <schrank>
+        <regal lage="oben" farbe="grün">
+            <buch titel="1984">
+                <inhaltsverzeichnis />
+                <kapitel />
+                <kapitel />
+                <kapitel />
+            </buch>
+            <buch titel="Gone with the Wind" />
+            <buch titel="" />
+            <buch />
+            <buch />
+        </regal>
+        <regal lage="mitte" farbe="rot" />
+        <regal lage="unten" farbe="gelb" />
+        <!--<obereRegal />
+        <mittleresRegal />
+        <unteresRegal />-->
+    </schrank>
+</raum>
