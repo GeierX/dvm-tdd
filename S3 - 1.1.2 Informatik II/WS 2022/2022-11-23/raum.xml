@@ -1,0 +1,6 @@
+<Raum location="urbanHarbour" zimmernummer="uh20">
+  <Tisch typ="schreibtisch"/>
+  <Tisch typ="schreibtisch"/>
+  <Mensch name="Anton"/>
+  <Mensch name="Berta"/>
+</Raum>
