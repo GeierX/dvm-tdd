@@ -1,0 +1,24 @@
+<legoaufbau xmlns:spiderman="urn:spiderman"
+			xmlns:ritterburg="urn:ritter"
+			xmlns:piratenschiff="urn:piraten">
+	<figur>
+		<spiderman:kopf />
+		<ritterburg:körper>
+			<linkerarm>
+				<schwert />
+            </linkerarm>
+			<rechterarm />
+		</ritterburg:körper>
+		<piratenschiff:beine />
+	</figur>
+	<figur>
+		<ritterburg:kopf bart="schwarz" />
+		<ritterburg:körper>
+			<linkerarm>
+				<schwert />
+            </linkerarm>
+			<rechterarm />
+		</ritterburg:körper>
+		<ritterburg:beine />
+	</figur>
+</legoaufbau>
