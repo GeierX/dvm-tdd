@@ -1,0 +1,7 @@
+1. Erstellen Sie ein XML Dokument, welches einen Supermarkt darstellt. Im Supermarkt gibt es verschiedene Regale, die nach Produktkategorien sortiert sind - jede Produktkategorie hat ein zugehöriges Regal. Auf jedem Regal werden Produkte zum Kauf angeboten. Jedes Produkt hat einen EAN-Code, einen Produktnamen, einen Markennamen, einen Verkaufspreis, sowie eventuell eine Rabatt-Angabe.
+
+2. Erstellen Sie eine XPath Abfrage, mit der Sie alle Regale finden, auf denen sich Produkte einer angegebenen Produkt-Marke befinden.
+
+3. Erstellen Sie eine XPath Abfrage, mit der Sie alle Produkte in einem angegebenen Regal finden, die weniger als 10 Euro kosten.
+
+4. Erstellen Sie ein Programm, welches die jeweils günstigsten Produkte für einen angegebenen Einkaufszettel findet, und für sämtliche so gefundenen Produkte eine Rechnung im XML Format erstellt. Diese Rechnung soll für jedes Produkt den Produktnamen, den ursprünglichen Verkaufspreis, den durch einen eventuellen Rabatt reduzierten tatsächlichen Verkaufspreis, sowie die Summe aller so gekaufter Produkte, darstellen.
