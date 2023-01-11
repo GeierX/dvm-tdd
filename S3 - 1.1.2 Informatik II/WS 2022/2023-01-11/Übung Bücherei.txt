@@ -1,0 +1,7 @@
+1. Erstellen Sie ein XML Dokument, mit dem Sie eine Bücherei darstellen. Die Bücherei enthält viele Bücherregale. Jedes Buchregal enthält Bücher und hat ein Themengebiet. Jedes Buch enthält Kapitel, hat einen oder mehrere Autoren, hat ein Erscheinungsjahr, eine ISBN-Nummer, und einen Verlag. Jedes Kapitel hat einen Titel und enthält viele Seiten. Jede Seite hat Inhalt in Form von Text.
+
+2. Erstellen Sie eine XPath Abfrage, mit der Sie alle Texte aus den einzelnen Kapiteln eines durch ISBN bestimmten Buches finden können.
+
+3. Schreiben Sie ein Programm, welches dem Benutzer ermöglicht, in der Bibliothek all jene Bücher zu finden, die einen vom Benutzer angegebenen Text enthalten. Das Programm soll alle Bücher, die den gesuchten Text enthalten, ausgeben, und angeben, auf welchen Seiten sich der Text befindet. (Achtung: die Seitenanzahl steht nirgendwo explizit ... sie muß also erst errechnet werden!)
+
+4. Erweitern Sie die Kapitel so, dass sie Elemente aus dem XHTML Namespace (https://www.w3.org/1999/xhtml/) enthalten können und so der Inhalt der einzelnen Seiten aus HTML bestehen kann.
