@@ -1,0 +1,57 @@
+Parameter überall:
+
+["Anton", "Berta", "Bea", 20, 10, 0.02, True]
+
+
+
+A1:
+
+Erstellen Sie eine Funktion, die eine Liste als Parameter übernimmt und eine Liste mit Einträgen in umgekehrter Reihenfolge zurückgibt.
+
+Rückgabe:
+
+[True, 0.02, 10, 20, "Bea", "Berta", "Anton"]
+
+
+
+A2:
+
+Erstellen Sie eine Funktion, die als Parameter eine Liste mit Einträgen von Typen "str", "int", "float", und "bool" übernimmt. Diese Einträge sollen, nach Typ sortiert, als Dictionary zurückgegeben werden.
+
+Rückgabe:
+
+{
+	"str": ["Anton", "Berta", "Bea"],
+	"int": [20, 10],
+	"float": [0.02],
+	"bool": [True]
+}
+
+
+
+A3:
+
+Erstellen Sie eine Funktion, die als Parameter eine Liste mit Einträgen von verschiedenen Typen übernimmt. Zurückgegeben soll eine Dictionary, die nur Einträge vom Typ "str" enthält, wobei diese nach Anfangsbuchstabe sortiert sein soll.
+
+Rückgabe:
+
+{
+	"A": ["Anton"],
+	"B": ["Berta", "Bea"]
+}
+
+
+
+A4:
+
+Erstellen Sie eine Funktion, die als Parameter eine Liste mit Einträgen von verschiedenen Typen übernimmt. Zurückgegeben soll die Summe aller Einträge, die eine Zahl sind.
+
+Rückgabe:
+
+30.02
+
+
+
+A5:
+
+Erstellen Sie die Datei "funktionen.py", die die oben erstellten Funktionen beinhaltet. Erstellen Sie anschließend ein Python Programm, welches diese Funktionen als Modul importiert und austestet.
